@@ -1,1 +1,1 @@
-"# Trusted-Pack" 
+# Trusted-Pack
