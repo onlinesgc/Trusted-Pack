@@ -1,0 +1,31 @@
+Detta är en lista över alla musikdiskar vi har i TrustedPack
+
+FILNAMN			LÅTNAMN				BESKRIVNING			SKAPARE
+13.ogg				-ledig-
+cat.ogg			Trusted Hallå			AVA's låt			Alviun
+blocks.ogg		Asufaruto i mitt hjärta		Asufarutos nationalsång		Alviun	
+chirp.ogg		Amogus - Suspekt						Leonz	
+far.ogg			Inget stoppar trusted nu	AVA's låt			Alviun
+mall.ogg			-ledig-
+mellohi.ogg		Hundmos - Du snurrar mig runt					Hundmos	
+stal.ogg		stal (fast bättre)		Stal fast bättre		Aqbrhino (tillstånd)
+strad.ogg			-ledig-		
+ward.ogg		Asufaruto Onion							Okänd
+11.ogg			- RESERVERAD FÖR ORIGINAL -	Den trasiga skivan
+wait.ogg		Rule Birchester			Birchesters nationalsång	Public Domain (https://www.loc.gov/item/jukebox-645323/)
+
+NYA DISKAR
+otherside.ogg		- RESERVERAD FÖR ORIGINAL -
+5.ogg			- RESERVERAD FÖR ORIGINAL -
+pigstep.ogg		- RESERVERAD FÖR ORIGINAL -
+relic.ogg		- RESERVERAD FÖR ORIGINAL -
+creator.ogg		- RESERVERAD FÖR ORIGINAL -
+creator_music_box.ogg	- RESERVERAD FÖR ORIGINAL -
+precipice.ogg		- RESERVERAD FÖR ORIGINAL -
+
+
+
+
+
+
+

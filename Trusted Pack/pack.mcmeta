@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "description": "§e§lTrustedPack 21a§r§o\n Av: naetilus, wikiraze, lukasabbe",
+    "supported_formats": {
+      "min_inclusive": 16,
+      "max_inclusive": 34
+    }
+  }
+}
