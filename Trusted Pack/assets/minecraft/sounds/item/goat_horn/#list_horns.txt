@@ -1,0 +1,13 @@
+Detta är en lista över alla goathorns vi har i TrustedPack
+
+_FILNAMN_	_ORIGINAL	_BYTT MOT_	_SKAPAT AV_
+call0.ogg	Ponder		
+call1.ogg	Sing		Tequilla	Naetilus
+call2.ogg	Seek		Epix Sax Guy	Naetilus
+call3.ogg	Feel		Rule Birchester	Naetilus
+call4.ogg	Admire*
+call5.ogg	Call*
+call6.ogg	Yearn*
+call7.ogg	Dream*
+
+*screaming goat

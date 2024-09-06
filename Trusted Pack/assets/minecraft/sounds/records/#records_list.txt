@@ -1,28 +1,25 @@
 Detta är en lista över alla musikdiskar vi har i TrustedPack
 
-FILNAMN			LÅTNAMN				BESKRIVNING			SKAPARE
-13.ogg				-ledig-
-cat.ogg			Trusted Hallå			AVA's låt			Alviun
-blocks.ogg		Asufaruto i mitt hjärta		Asufarutos nationalsång		Alviun	
-chirp.ogg		Amogus - Suspekt						Leonz	
-far.ogg			Inget stoppar trusted nu	AVA's låt			Alviun
-mall.ogg			-ledig-
-mellohi.ogg		Hundmos - Du snurrar mig runt					Hundmos	
-stal.ogg		stal (fast bättre)		Stal fast bättre		Aqbrhino (tillstånd)
-strad.ogg			-ledig-		
-ward.ogg		Asufaruto Onion							Okänd
-11.ogg			- RESERVERAD FÖR ORIGINAL -	Den trasiga skivan
-wait.ogg		Rule Birchester			Birchesters nationalsång	Public Domain (https://www.loc.gov/item/jukebox-645323/)
-
-NYA DISKAR
-otherside.ogg		- RESERVERAD FÖR ORIGINAL -
-5.ogg			- RESERVERAD FÖR ORIGINAL -
-pigstep.ogg		- RESERVERAD FÖR ORIGINAL -
-relic.ogg		- RESERVERAD FÖR ORIGINAL -
-creator.ogg		- RESERVERAD FÖR ORIGINAL -
-creator_music_box.ogg	- RESERVERAD FÖR ORIGINAL -
-precipice.ogg		- RESERVERAD FÖR ORIGINAL -
-
+_FILNAMN_		_ORIGINAL_		_BYTT MOT_			_SKAPAD AV_		_KÄLLA_
+13.ogg			13			- ledig -			
+cat.ogg			Cat			Trusted Hallå			AVA			https://www.youtube.com/watch?v=v3wz_xNu7ic			
+blocks.ogg		Blocks			Asufaruto i mitt hjärta		AVA			https://www.youtube.com/watch?v=Swo5jUR-K_M
+chirp.ogg		Chirp			Among Us Drip Theme		Leonz			https://www.youtube.com/watch?v=grd-K33tOSM
+far.ogg			Far			Inget stoppar trusted nu	AVA			https://www.youtube.com/watch?v=4iWSJLDirQQ
+mall.ogg		Mall			- ledig -
+mellohi.ogg		Mellohi			Du snurrar mig runt		Hundmos			egen inspelning
+stal.ogg		Stal			Stal (but only the good parts)	Aqbrhino		https://www.youtube.com/watch?v=591ppbNYvUc
+strad.ogg		Strad			-ledig-								
+ward.ogg		Ward			Chanson de l'Oignon 		okänd			?
+11.ogg			11			- reserverad -
+wait.ogg		Wait			Rule Birchester			Prince's Military Band	https://www.loc.gov/item/jukebox-645323/
+otherside.ogg		otherside		- reserverad -			
+5.ogg			5			- reserverad -
+pigstep.ogg		pigstep			- reserverad -
+relic.ogg		relic			- reserverad -
+creator.ogg		creator			- reserverad -
+creator_music_box.ogg	creator music box	- reserverad -
+precipice.ogg		precipice		- reserverad -
 
 
 
