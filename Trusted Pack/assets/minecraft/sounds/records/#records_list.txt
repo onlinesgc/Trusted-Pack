@@ -1,12 +1,12 @@
 Detta är en lista över alla musikdiskar vi har i TrustedPack
 
 _FILNAMN_		_ORIGINAL_		_BYTT MOT_			_SKAPAD AV_		_KÄLLA_
-13.ogg			13			- ledig -			
+13.ogg			13			Början av en era		Nitramiuz		https://www.youtube.com/watch?v=EaEt7_ApnbE			
 cat.ogg			Cat			Trusted Hallå			AVA			https://www.youtube.com/watch?v=v3wz_xNu7ic			
 blocks.ogg		Blocks			Asufaruto i mitt hjärta		AVA			https://www.youtube.com/watch?v=Swo5jUR-K_M
 chirp.ogg		Chirp			Among Us Drip Theme		Leonz			https://www.youtube.com/watch?v=grd-K33tOSM
 far.ogg			Far			Inget stoppar trusted nu	AVA			https://www.youtube.com/watch?v=4iWSJLDirQQ
-mall.ogg		Mall			- ledig -
+mall.ogg		Mall			Hålla låda med SGC		Tilda & Arre		https://www.youtube.com/watch?v=7cJbXFj0KiQ	
 mellohi.ogg		Mellohi			Du snurrar mig runt		Hundmos			egen inspelning
 stal.ogg		Stal			Stal (but only the good parts)	Aqbrhino		https://www.youtube.com/watch?v=591ppbNYvUc
 strad.ogg		Strad			-ledig-								
