@@ -1,0 +1,84 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "./unnamed",
+		"1": "./birchesterflagga"
+	},
+	"elements": [
+		{
+			"from": [7.1, 0, 7.1],
+			"to": [8.9, 16, 8.9],
+			"faces": {
+				"north": {"uv": [1, 0.04, 3, 16.04], "texture": "#0"},
+				"east": {"uv": [4, 0, 6, 16], "texture": "#0"},
+				"south": {"uv": [2, 0, 4, 16], "texture": "#0"},
+				"west": {"uv": [13, 0.04, 15, 16.04], "texture": "#0"},
+				"up": {"uv": [6.08, 6.92, 7.96, 9], "texture": "#0"},
+				"down": {"uv": [5.96, 6.92, 7.96, 9], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.5, 8, -4],
+			"to": [8.5, 16, 7],
+			"faces": {
+				"north": {"uv": [2, 4, 6, 12], "texture": "#1"},
+				"east": {"uv": [2, 4, 13, 12], "rotation": 180, "texture": "#1"},
+				"south": {"uv": [2, 4, 13, 12], "texture": "#1"},
+				"west": {"uv": [2, 4, 13, 12], "texture": "#1"},
+				"up": {"uv": [2, 4, 6, 12], "texture": "#1"},
+				"down": {"uv": [2, 4, 6, 12], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 7.5, 1.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2, 1.5],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-19, 18, 0],
+			"translation": [1.75, 2, 1.5],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-19, 18, 0],
+			"translation": [1.75, 2, 1.5],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 6, 0]
+		},
+		"gui": {
+			"rotation": [30, 78, -35],
+			"translation": [4.75, -1.25, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"head": {
+			"rotation": [31, -180, 0],
+			"translation": [0, 7.75, 7.25]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0.5, -14.5],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "lightning_rod",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [
+				{
+					"name": "lightning_rod",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": [0, 1]
+				}
+			]
+		}
+	]
+}
