@@ -33,14 +33,14 @@
           }
         },
         {
-          "when": "Stor Bj\\u00F6rktopia Flagga",
+          "when": "Stor Björktopia Flagga",
           "model": {
             "type": "minecraft:model",
             "model": "trusted_pack:item/3d_flaggor/asu_bjo_flag"
           }
         },
         {
-          "when": "Bj\\u00F6rktopia Flagga",
+          "when": "Björktopia Flagga",
           "model": {
             "type": "minecraft:model",
             "model": "trusted_pack:item/3d_flaggor/bjo_flag"

@@ -1,0 +1,27 @@
+{
+    "model": {
+      "type": "minecraft:select",
+      "property": "minecraft:component",
+      "component": "minecraft:written_book_content",
+      "cases": [
+        {
+          "when": {
+            "title": {
+              "raw": "Luna Pass"
+            },
+            "author": "lukasabbe",
+            "generation": 0,
+            "resolved": true
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "trusted_pack:item/passports/luna_passport"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/written_book"
+      }
+    }
+  }

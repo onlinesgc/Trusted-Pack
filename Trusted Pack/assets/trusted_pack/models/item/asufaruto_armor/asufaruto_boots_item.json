@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:item/generated",
-    "textures": {
-      "layer0": "trusted_pack:item/asufaruto_armor/asufaruto_boots"
-    }
-  }

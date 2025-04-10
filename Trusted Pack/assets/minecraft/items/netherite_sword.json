@@ -1,0 +1,27 @@
+{
+    "model": {
+      "type": "minecraft:select",
+      "property": "minecraft:component",
+      "component": "minecraft:custom_name",
+      "cases": [
+        {
+          "when": "Asufaruto Army Sword",
+          "model": {
+            "type": "minecraft:model",
+            "model": "trusted_pack:item/asufaruto_weapons/asufaruto_sword"
+          }
+        },
+        {
+          "when": "Long Asufaruto Army Sword",
+          "model": {
+            "type": "minecraft:model",
+            "model": "trusted_pack:item/asufaruto_weapons/asufaruto_army_sword_big"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/netherite_sword"
+      }
+    }
+  }

@@ -1,0 +1,27 @@
+{
+    "model": {
+      "type": "minecraft:select",
+      "property": "minecraft:component",
+      "component": "minecraft:custom_name",
+      "cases": [
+        {
+          "when": "Bing Chilling",
+          "model": {
+            "type": "minecraft:model",
+            "model": "trusted_pack:item/food/bing_chilling"
+          }
+        },
+        {
+            "when": "Vitt te",
+            "model": {
+              "type": "minecraft:model",
+              "model": "trusted_pack:item/food/vitt_te"
+            }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/milk_bucket"
+      }
+    }
+  }

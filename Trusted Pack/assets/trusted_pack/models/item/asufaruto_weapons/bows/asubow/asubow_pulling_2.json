@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/bow",
+    "textures": {
+      "layer0": "trusted_pack:item/asufaruto_weapons/bows/asubow/asubow_pulling_2"
+    }
+  }
