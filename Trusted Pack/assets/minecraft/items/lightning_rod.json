@@ -1,0 +1,55 @@
+{
+    "model": {
+      "type": "minecraft:select",
+      "property": "minecraft:component",
+      "component": "minecraft:custom_name",
+      "cases": [
+        {
+          "when": "Stor Asufaruto Flagga",
+          "model": {
+            "type": "minecraft:model",
+            "model": "trusted_pack:item/3d_flaggor/asu_big_flag"
+          }
+        },
+        {
+          "when": "Asufaruto Flagga",
+          "model": {
+            "type": "minecraft:model",
+            "model": "trusted_pack:item/3d_flaggor/asu_flag"
+          }
+        },
+        {
+          "when": "Stor Birchester Flagga",
+          "model": {
+            "type": "minecraft:model",
+            "model": "trusted_pack:item/3d_flaggor/bir_big_flag"
+          }
+        },
+        {
+          "when": "Birchester Flagga",
+          "model": {
+            "type": "minecraft:model",
+            "model": "trusted_pack:item/3d_flaggor/bir_flag"
+          }
+        },
+        {
+          "when": "Stor Bj\\u00F6rktopia Flagga",
+          "model": {
+            "type": "minecraft:model",
+            "model": "trusted_pack:item/3d_flaggor/asu_bjo_flag"
+          }
+        },
+        {
+          "when": "Bj\\u00F6rktopia Flagga",
+          "model": {
+            "type": "minecraft:model",
+            "model": "trusted_pack:item/3d_flaggor/bjo_flag"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:block/lightning_rod"
+      }
+    }
+  }
