@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "trusted_skin_pack:item/lizard_w1zard"
+		"0": "trusted_skin_pack:item/lizard_w1zard",
+		"particle": "trusted_skin_pack:item/lizard_w1zard"
 	},
 	"elements": [
 		{

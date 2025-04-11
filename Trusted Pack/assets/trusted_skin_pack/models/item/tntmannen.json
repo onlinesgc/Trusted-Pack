@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "trusted_skin_pack:item/tntmannen"
+		"0": "trusted_skin_pack:item/tntmannen",
+		"particle": "trusted_skin_pack:item/tntmannen"
 	},
 	"elements": [
 		{

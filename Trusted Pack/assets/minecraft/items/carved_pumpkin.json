@@ -1384,10 +1384,10 @@
                 }
             },
             {
-                "when": "husmuseen",
+                "when": "mellanmjolk1",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "trusted_skin_pack:item/husmuseen"
+                    "model": "trusted_skin_pack:item/mellanmjolk1"
                 }
             },
             {

@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 32],
 	"textures": {
-		"0": "trusted_skin_pack:item/nykvinna"
+		"0": "trusted_skin_pack:item/nykvinna",
+		"particle": "trusted_skin_pack:item/nykvinna"
 	},
 	"elements": [
 		{

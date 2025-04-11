@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "trusted_skin_pack:item/dry4haz"
+		"0": "trusted_skin_pack:item/dry4haz",
+		"particle": "trusted_skin_pack:item/dry4haz"
 	},
 	"elements": [
 		{

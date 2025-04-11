@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "trusted_skin_pack:item/lisa_3d"
+		"0": "trusted_skin_pack:item/lisa_3d",
+		"particle": "trusted_skin_pack:item/lisa_3d"
 	},
 	"elements": [
 		{

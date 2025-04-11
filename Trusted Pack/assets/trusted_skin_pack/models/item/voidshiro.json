@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "trusted_skin_pack:item/voidshiro"
+		"0": "trusted_skin_pack:item/voidshiro",
+		"particle": "trusted_skin_pack:item/voidshiro"
 	},
 	"elements": [
 		{
