@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "./scaled_oak_log",
-		"1": "./birchester_flagga",
-		"particle": "./scaled_oak_log"
+		"0": "trusted_pack:item/3d_flaggor/scaled_oak_log",
+		"1": "trusted_pack:item/3d_flaggor/birchester_flagga",
+		"particle": "trusted_pack:item/3d_flaggor/scaled_oak_log"
 	},
 	"elements": [
 		{
