@@ -1,0 +1,1931 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": "mrzxel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/mrzxel"
+                }
+            },
+            {
+                "when": "swattskyswe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/swattskyswe"
+                }
+            },
+            {
+                "when": "xpesp7621",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/xpesp7621"
+                }
+            },
+            {
+                "when": "mizuii",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/mizuii"
+                }
+            },
+            {
+                "when": "hundmos",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/hundmos"
+                }
+            },
+            {
+                "when": "arrebarre04",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/arrebarre04"
+                }
+            },
+            {
+                "when": "jerryspelare",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/jerryspelare"
+                }
+            },
+            {
+                "when": "krickeking",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/krickeking"
+                }
+            },
+            {
+                "when": "doktor2000",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/doktor2000"
+                }
+            },
+            {
+                "when": "metajuices",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/metajuices"
+                }
+            },
+            {
+                "when": "cherrygoob",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/cherrygoob"
+                }
+            },
+            {
+                "when": "skyhorse_10",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/skyhorse_10"
+                }
+            },
+            {
+                "when": "elgorexi",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/elgorexi"
+                }
+            },
+            {
+                "when": "golans07",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/golans07"
+                }
+            },
+            {
+                "when": "m4sk3n",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/m4sk3n"
+                }
+            },
+            {
+                "when": "villvall",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/villvall"
+                }
+            },
+            {
+                "when": "thebluehexagon",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/thebluehexagon"
+                }
+            },
+            {
+                "when": "v1lgot",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/v1lgot"
+                }
+            },
+            {
+                "when": "simonixen07",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/simonixen07"
+                }
+            },
+            {
+                "when": "kjol",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/kjol"
+                }
+            },
+            {
+                "when": "lucke37",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/lucke37"
+                }
+            },
+            {
+                "when": "alinto",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/alinto"
+                }
+            },
+            {
+                "when": "hibz_",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/hibz_"
+                }
+            },
+            {
+                "when": "isglassen_",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/isglassen_"
+                }
+            },
+            {
+                "when": "miltongg",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/miltongg"
+                }
+            },
+            {
+                "when": "bussen2008",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/bussen2008"
+                }
+            },
+            {
+                "when": "hugge64",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/hugge64"
+                }
+            },
+            {
+                "when": "aerlye",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/aerlye"
+                }
+            },
+            {
+                "when": "f00xie",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/f00xie"
+                }
+            },
+            {
+                "when": "materia1337",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/materia1337"
+                }
+            },
+            {
+                "when": "dannebo",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/dannebo"
+                }
+            },
+            {
+                "when": "moizuwu",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/moizuwu"
+                }
+            },
+            {
+                "when": "darhagonable",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/darhagonable"
+                }
+            },
+            {
+                "when": "taxen_",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/taxen_"
+                }
+            },
+            {
+                "when": "pumparn_tm",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/pumparn_tm"
+                }
+            },
+            {
+                "when": "gurkiboii",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/gurkiboii"
+                }
+            },
+            {
+                "when": "bergettneo",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/bergettneo"
+                }
+            },
+            {
+                "when": "quitehornet67",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/quitehornet67"
+                }
+            },
+            {
+                "when": "acke0827",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/acke0827"
+                }
+            },
+            {
+                "when": "muggen_sub",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/muggen_sub"
+                }
+            },
+            {
+                "when": "pro_gaming1921",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/pro_gaming1921"
+                }
+            },
+            {
+                "when": "zenvob",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/zenvob"
+                }
+            },
+            {
+                "when": "japanish98",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/japanish98"
+                }
+            },
+            {
+                "when": "frotzyz",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/frotzyz"
+                }
+            },
+            {
+                "when": "uttern22",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/uttern22"
+                }
+            },
+            {
+                "when": "fad1ngsky",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/fad1ngsky"
+                }
+            },
+            {
+                "when": "dj17520",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/dj17520"
+                }
+            },
+            {
+                "when": "swedishkevin0701",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/swedishkevin0701"
+                }
+            },
+            {
+                "when": "ayleiz",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/ayleiz"
+                }
+            },
+            {
+                "when": "alexeonder",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/alexeonder"
+                }
+            },
+            {
+                "when": "deetdu",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/deetdu"
+                }
+            },
+            {
+                "when": "coffeecurley",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/coffeecurley"
+                }
+            },
+            {
+                "when": "maxminedigger",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/maxminedigger"
+                }
+            },
+            {
+                "when": "jinpixis",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/jinpixis"
+                }
+            },
+            {
+                "when": "blobfiskenbob",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/blobfiskenbob"
+                }
+            },
+            {
+                "when": "squidofpixels",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/squidofpixels"
+                }
+            },
+            {
+                "when": "cappesun",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/cappesun"
+                }
+            },
+            {
+                "when": "artexs",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/artexs"
+                }
+            },
+            {
+                "when": "itsellalolz",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/itsellalolz"
+                }
+            },
+            {
+                "when": "lunauwu",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/lunauwu"
+                }
+            },
+            {
+                "when": "pinecone_5",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/pinecone_5"
+                }
+            },
+            {
+                "when": "pianopanda81",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/pianopanda81"
+                }
+            },
+            {
+                "when": "piximi",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/piximi"
+                }
+            },
+            {
+                "when": "braxen1",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/braxen1"
+                }
+            },
+            {
+                "when": "viggidig_",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/viggidig_"
+                }
+            },
+            {
+                "when": "sinna2001",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/sinna2001"
+                }
+            },
+            {
+                "when": "max_max_maxsson",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/max_max_maxsson"
+                }
+            },
+            {
+                "when": "mattehaxhiu",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/mattehaxhiu"
+                }
+            },
+            {
+                "when": "bagarn_",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/bagarn_"
+                }
+            },
+            {
+                "when": "_thepumpkinpie_",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/_thepumpkinpie_"
+                }
+            },
+            {
+                "when": "realfemboyslayer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/realfemboyslayer"
+                }
+            },
+            {
+                "when": "wikiraze2",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/wikiraze2"
+                }
+            },
+            {
+                "when": "legoaxel06",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/legoaxel06"
+                }
+            },
+            {
+                "when": "oskarpow3r",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/oskarpow3r"
+                }
+            },
+            {
+                "when": "06oj321",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/06oj321"
+                }
+            },
+            {
+                "when": "catmaster02",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/catmaster02"
+                }
+            },
+            {
+                "when": "erikbacke",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/erikbacke"
+                }
+            },
+            {
+                "when": "proba_andmert",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/proba_andmert"
+                }
+            },
+            {
+                "when": "nickeloppan",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/nickeloppan"
+                }
+            },
+            {
+                "when": "scarset",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/scarset"
+                }
+            },
+            {
+                "when": "edvindenbeste",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/edvindenbeste"
+                }
+            },
+            {
+                "when": "raatko",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/raatko"
+                }
+            },
+            {
+                "when": "xdkatt",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/xdkatt"
+                }
+            },
+            {
+                "when": "catsinthetown",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/catsinthetown"
+                }
+            },
+            {
+                "when": "ogmeister",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/ogmeister"
+                }
+            },
+            {
+                "when": "villson",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/villson"
+                }
+            },
+            {
+                "when": "bradlei",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/bradlei"
+                }
+            },
+            {
+                "when": "wimmeggplant",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/wimmeggplant"
+                }
+            },
+            {
+                "when": "mottemr77",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/mottemr77"
+                }
+            },
+            {
+                "when": "mcenforcement",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/mcenforcement"
+                }
+            },
+            {
+                "when": "laneboy43",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/laneboy43"
+                }
+            },
+            {
+                "when": "thelindblomer",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/thelindblomer"
+                }
+            },
+            {
+                "when": "apple0331",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/apple0331"
+                }
+            },
+            {
+                "when": "gurkan_14",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/gurkan_14"
+                }
+            },
+            {
+                "when": "j0sefine",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/j0sefine"
+                }
+            },
+            {
+                "when": "missanpower",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/missanpower"
+                }
+            },
+            {
+                "when": "eke0909",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/eke0909"
+                }
+            },
+            {
+                "when": "rat__96",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/rat__96"
+                }
+            },
+            {
+                "when": "knetto",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/knetto"
+                }
+            },
+            {
+                "when": "finnyti",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/finnyti"
+                }
+            },
+            {
+                "when": "ploffsen",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/ploffsen"
+                }
+            },
+            {
+                "when": "redstone_machine",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/redstone_machine"
+                }
+            },
+            {
+                "when": "laitz",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/laitz"
+                }
+            },
+            {
+                "when": "salbox",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/salbox"
+                }
+            },
+            {
+                "when": "vigge24",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/vigge24"
+                }
+            },
+            {
+                "when": "swedishfire",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/swedishfire"
+                }
+            },
+            {
+                "when": "ea15d3",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/ea15d3"
+                }
+            },
+            {
+                "when": "herr_vincent",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/herr_vincent"
+                }
+            },
+            {
+                "when": "lizard_w1zard",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/lizard_w1zard"
+                }
+            },
+            {
+                "when": "lisa_3d",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/lisa_3d"
+                }
+            },
+            {
+                "when": "venomized",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/venomized"
+                }
+            },
+            {
+                "when": "vidaes",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/vidaes"
+                }
+            },
+            {
+                "when": "mouseend",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/mouseend"
+                }
+            },
+            {
+                "when": "chripposh",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/chripposh"
+                }
+            },
+            {
+                "when": "melinanka",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/melinanka"
+                }
+            },
+            {
+                "when": "stamsite",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/stamsite"
+                }
+            },
+            {
+                "when": "henkan1337",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/henkan1337"
+                }
+            },
+            {
+                "when": "r2ndom1",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/r2ndom1"
+                }
+            },
+            {
+                "when": "ennelolmyra",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/ennelolmyra"
+                }
+            },
+            {
+                "when": "ninjahumlan",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/ninjahumlan"
+                }
+            },
+            {
+                "when": "picalourien",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/picalourien"
+                }
+            },
+            {
+                "when": "plankiis",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/plankiis"
+                }
+            },
+            {
+                "when": "051_",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/051_"
+                }
+            },
+            {
+                "when": "sleepwalker404",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/sleepwalker404"
+                }
+            },
+            {
+                "when": "gardstomten",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/gardstomten"
+                }
+            },
+            {
+                "when": "goalkee32",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/goalkee32"
+                }
+            },
+            {
+                "when": "darfnalle",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/darfnalle"
+                }
+            },
+            {
+                "when": "embr3",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/embr3"
+                }
+            },
+            {
+                "when": "alexbju",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/alexbju"
+                }
+            },
+            {
+                "when": "l1isa",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/l1isa"
+                }
+            },
+            {
+                "when": "dark_moonight",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/dark_moonight"
+                }
+            },
+            {
+                "when": "7ks",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/7ks"
+                }
+            },
+            {
+                "when": "zugge",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/zugge"
+                }
+            },
+            {
+                "when": "toadoshi",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/toadoshi"
+                }
+            },
+            {
+                "when": "boyalf",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/boyalf"
+                }
+            },
+            {
+                "when": "kevinbiceps437",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/kevinbiceps437"
+                }
+            },
+            {
+                "when": "xpazo01",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/xpazo01"
+                }
+            },
+            {
+                "when": "glowingyoshi",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/glowingyoshi"
+                }
+            },
+            {
+                "when": "pelinprincess",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/pelinprincess"
+                }
+            },
+            {
+                "when": "villeolof",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/villeolof"
+                }
+            },
+            {
+                "when": "kaniniboi1337",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/kaniniboi1337"
+                }
+            },
+            {
+                "when": "knas__",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/knas__"
+                }
+            },
+            {
+                "when": "maxmix123",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/maxmix123"
+                }
+            },
+            {
+                "when": "majonnas",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/majonnas"
+                }
+            },
+            {
+                "when": "mrdriftswe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/mrdriftswe"
+                }
+            },
+            {
+                "when": "awke_zq123g",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/awke_zq123g"
+                }
+            },
+            {
+                "when": "wilmer100101",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/wilmer100101"
+                }
+            },
+            {
+                "when": "paancake_",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/paancake_"
+                }
+            },
+            {
+                "when": "djrazzo",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/djrazzo"
+                }
+            },
+            {
+                "when": "tefigero",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/tefigero"
+                }
+            },
+            {
+                "when": "myggi_alex",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/myggi_alex"
+                }
+            },
+            {
+                "when": "avalge",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/avalge"
+                }
+            },
+            {
+                "when": "wikiraze",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/wikiraze"
+                }
+            },
+            {
+                "when": "kungoscar2",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/kungoscar2"
+                }
+            },
+            {
+                "when": "professorn1234",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/professorn1234"
+                }
+            },
+            {
+                "when": "nordfali",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/nordfali"
+                }
+            },
+            {
+                "when": "lyxolax",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/lyxolax"
+                }
+            },
+            {
+                "when": "viktormanga",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/viktormanga"
+                }
+            },
+            {
+                "when": "facedexpert",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/facedexpert"
+                }
+            },
+            {
+                "when": "luber_",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/luber_"
+                }
+            },
+            {
+                "when": "tntmannen",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/tntmannen"
+                }
+            },
+            {
+                "when": "msmelle",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/msmelle"
+                }
+            },
+            {
+                "when": "charmione",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/charmione"
+                }
+            },
+            {
+                "when": "chippen_g",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/chippen_g"
+                }
+            },
+            {
+                "when": "maartin",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/maartin"
+                }
+            },
+            {
+                "when": "belrain_",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/belrain_"
+                }
+            },
+            {
+                "when": "lillskitn",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/lillskitn"
+                }
+            },
+            {
+                "when": "pawo99",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/pawo99"
+                }
+            },
+            {
+                "when": "hoppsan_",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/hoppsan_"
+                }
+            },
+            {
+                "when": "lwsplukas",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/lwsplukas"
+                }
+            },
+            {
+                "when": "kanto76",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/kanto76"
+                }
+            },
+            {
+                "when": "wilski__",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/wilski__"
+                }
+            },
+            {
+                "when": "dinlokalahitman",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/dinlokalahitman"
+                }
+            },
+            {
+                "when": "drtid",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/drtid"
+                }
+            },
+            {
+                "when": "dry4haz",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/dry4haz"
+                }
+            },
+            {
+                "when": "vingca",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/vingca"
+                }
+            },
+            {
+                "when": "lukeboyy",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/lukeboyy"
+                }
+            },
+            {
+                "when": "frejbo",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/frejbo"
+                }
+            },
+            {
+                "when": "imolaragazzi",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/imolaragazzi"
+                }
+            },
+            {
+                "when": "mrhoffy",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/mrhoffy"
+                }
+            },
+            {
+                "when": "wizard_wizz",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/wizard_wizz"
+                }
+            },
+            {
+                "when": "liamtheking_",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/liamtheking_"
+                }
+            },
+            {
+                "when": "typicalwannabe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/typicalwannabe"
+                }
+            },
+            {
+                "when": "davidrhel",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/davidrhel"
+                }
+            },
+            {
+                "when": "stefanking",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/stefanking"
+                }
+            },
+            {
+                "when": "spreyn",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/spreyn"
+                }
+            },
+            {
+                "when": "locktheart95",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/locktheart95"
+                }
+            },
+            {
+                "when": "svartkryp1",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/svartkryp1"
+                }
+            },
+            {
+                "when": "paperrot",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/paperrot"
+                }
+            },
+            {
+                "when": "willejami",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/willejami"
+                }
+            },
+            {
+                "when": "zturen",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/zturen"
+                }
+            },
+            {
+                "when": "meckismms",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/meckismms"
+                }
+            },
+            {
+                "when": "spisen",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/spisen"
+                }
+            },
+            {
+                "when": "oskiir",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/oskiir"
+                }
+            },
+            {
+                "when": "alviun",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/alviun"
+                }
+            },
+            {
+                "when": "lucaspuus",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/lucaspuus"
+                }
+            },
+            {
+                "when": "file14",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/file14"
+                }
+            },
+            {
+                "when": "husmuseen",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/husmuseen"
+                }
+            },
+            {
+                "when": "littl_fox",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/littl_fox"
+                }
+            },
+            {
+                "when": "vovvaf",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/vovvaf"
+                }
+            },
+            {
+                "when": "thought3958",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/thought3958"
+                }
+            },
+            {
+                "when": "ffjalltorp",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/ffjalltorp"
+                }
+            },
+            {
+                "when": "bjoz",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/bjoz"
+                }
+            },
+            {
+                "when": "chipsdips",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/chipsdips"
+                }
+            },
+            {
+                "when": "barronbengt",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/barronbengt"
+                }
+            },
+            {
+                "when": "nykvinna",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/nykvinna"
+                }
+            },
+            {
+                "when": "sculk__",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/sculk__"
+                }
+            },
+            {
+                "when": "_flawlessed",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/_flawlessed"
+                }
+            },
+            {
+                "when": "rekanrekis",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/rekanrekis"
+                }
+            },
+            {
+                "when": "nunne2019",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/nunne2019"
+                }
+            },
+            {
+                "when": "gumball_007",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/gumball_007"
+                }
+            },
+            {
+                "when": "fhai",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/fhai"
+                }
+            },
+            {
+                "when": "hjallekalle10",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/hjallekalle10"
+                }
+            },
+            {
+                "when": "deluxerpanda",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/deluxerpanda"
+                }
+            },
+            {
+                "when": "zuihe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/zuihe"
+                }
+            },
+            {
+                "when": "vermium",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/vermium"
+                }
+            },
+            {
+                "when": "ozzyana",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/ozzyana"
+                }
+            },
+            {
+                "when": "evviss",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/evviss"
+                }
+            },
+            {
+                "when": "ewqi",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/ewqi"
+                }
+            },
+            {
+                "when": "vilmerz07",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/vilmerz07"
+                }
+            },
+            {
+                "when": "timmy9311",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/timmy9311"
+                }
+            },
+            {
+                "when": "smugguy",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/smugguy"
+                }
+            },
+            {
+                "when": "matteosoder",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/matteosoder"
+                }
+            },
+            {
+                "when": "vinzie_",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/vinzie_"
+                }
+            },
+            {
+                "when": "smurre",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/smurre"
+                }
+            },
+            {
+                "when": "zik_g",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/zik_g"
+                }
+            },
+            {
+                "when": "systemthirtytwo",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/systemthirtytwo"
+                }
+            },
+            {
+                "when": "voidshiro",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/voidshiro"
+                }
+            },
+            {
+                "when": "ant3nn",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/ant3nn"
+                }
+            },
+            {
+                "when": "koppen_sub",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/koppen_sub"
+                }
+            },
+            {
+                "when": "ivypies",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/ivypies"
+                }
+            },
+            {
+                "when": "derfla",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/derfla"
+                }
+            },
+            {
+                "when": "nite_xz",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/nite_xz"
+                }
+            },
+            {
+                "when": "lukasabbe",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/lukasabbe"
+                }
+            },
+            {
+                "when": "ivylunaa",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/ivylunaa"
+                }
+            },
+            {
+                "when": "jesus_bjorkman",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/jesus_bjorkman"
+                }
+            },
+            {
+                "when": "jidosc",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/jidosc"
+                }
+            },
+            {
+                "when": "nitramiuz",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/nitramiuz"
+                }
+            },
+            {
+                "when": "crazy_dynamite",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/crazy_dynamite"
+                }
+            },
+            {
+                "when": "zture",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/zture"
+                }
+            },
+            {
+                "when": "niklas_the_fox",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/niklas_the_fox"
+                }
+            },
+            {
+                "when": "edeforsen",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/edeforsen"
+                }
+            },
+            {
+                "when": "junom",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/junom"
+                }
+            },
+            {
+                "when": "naetilus",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/naetilus"
+                }
+            },
+            {
+                "when": "boomer112",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/boomer112"
+                }
+            },
+            {
+                "when": "slgfrld",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/slgfrld"
+                }
+            },
+            {
+                "when": "enbyious5",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/enbyious5"
+                }
+            },
+            {
+                "when": "itzspice",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/itzspice"
+                }
+            },
+            {
+                "when": "_pinkfix_",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/_pinkfix_"
+                }
+            },
+            {
+                "when": "law0906",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/law0906"
+                }
+            },
+            {
+                "when": "_kevo7565",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/_kevo7565"
+                }
+            },
+            {
+                "when": "korruptmaister",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/korruptmaister"
+                }
+            },
+            {
+                "when": "inoella",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/inoella"
+                }
+            },
+            {
+                "when": "itscnapris",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/itscnapris"
+                }
+            },
+            {
+                "when": "oborrachadrak_",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/oborrachadrak_"
+                }
+            },
+            {
+                "when": "aqcint",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/aqcint"
+                }
+            },
+            {
+                "when": "mcdreaamyy",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/mcdreaamyy"
+                }
+            },
+            {
+                "when": "lucasnagy",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/lucasnagy"
+                }
+            },
+            {
+                "when": "swe_kaosen",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/swe_kaosen"
+                }
+            },
+            {
+                "when": "robotman2048",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/robotman2048"
+                }
+            },
+            {
+                "when": "flurryheart_2002",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/flurryheart_2002"
+                }
+            },
+            {
+                "when": "luddpudd",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/luddpudd"
+                }
+            },
+            {
+                "when": "maxlof3570",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/maxlof3570"
+                }
+            },
+            {
+                "when": "toregamers",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/toregamers"
+                }
+            },
+            {
+                "when": "taggen_33",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/taggen_33"
+                }
+            },
+            {
+                "when": "starcrestluna",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/starcrestluna"
+                }
+            },
+            {
+                "when": "the_miner_z",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/the_miner_z"
+                }
+            },
+            {
+                "when": "emmisibella",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/emmisibella"
+                }
+            },
+            {
+                "when": "morriis",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/morriis"
+                }
+            },
+            {
+                "when": "magnomeister",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/magnomeister"
+                }
+            },
+            {
+                "when": "marsonmars",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/marsonmars"
+                }
+            },
+            {
+                "when": "hectori211",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/hectori211"
+                }
+            },
+            {
+                "when": "caffinated_beanz",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/caffinated_beanz"
+                }
+            },
+            {
+                "when": "paulisibella",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_skin_pack:item/paulisibella"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/carved_pumpkin"
+        }
+    }
+}
