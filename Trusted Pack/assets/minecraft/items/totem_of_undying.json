@@ -1,0 +1,27 @@
+{
+    "model": {
+      "type": "minecraft:select",
+      "property": "minecraft:component",
+      "component": "minecraft:custom_name",
+      "cases": [
+        {
+          "when": "sus",
+          "model": {
+            "type": "minecraft:model",
+            "model": "trusted_pack:item/totem_of_undying/totem_of_amogus"
+          }
+        },
+        {
+            "when": "moyai",
+            "model": {
+              "type": "minecraft:model",
+              "model": "trusted_pack:item/totem_of_undying/totem_of_moyai"
+            }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/gold_nugget"
+      }
+    }
+  }
