@@ -1921,6 +1921,69 @@
                     "type": "minecraft:model",
                     "model": "trusted_skin_pack:item/paulisibella"
                 }
+            },
+            {
+                "when": "Birchesters Krona ❃ H.M. Drottning Sinna",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_pack:item/kronor_o_regalia/birchester_kronor/2_sinna_krona"
+                }
+            },
+            {
+                "when": "Birchesters Krona ❃ H.M. Kung Mos",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_pack:item/kronor_o_regalia/birchester_kronor/4_hundmos_krona"
+                }
+            },
+            {
+                "when": "Birchesters Krona ❃ H.M. Prins Hundmos",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_pack:item/kronor_o_regalia/birchester_kronor/3_hundmos_prinskrona"
+                }
+            },
+            {
+                "when": "Birchesters Krona ❃ H.M. Drottning Paula",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_pack:item/kronor_o_regalia/birchester_kronor/5_paulis_krona"
+                }
+            },
+            {
+                "when": "Asufarutos Krona ⚜ H.M. Kung Masken",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_pack:item/kronor_o_regalia/asufaruto_kronor/asu_kungakrona_masken"
+                }
+            },
+            {
+                "when": "Asufarutos Krona ⚜ H.M. Prinskronan",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_pack:item/kronor_o_regalia/asufaruto_kronor/asu_prinskrona"
+                }
+            },
+            {
+                "when": "Viktoriansk Krona ◦ Kung Kevin II",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_pack:item/kronor_o_regalia/ovriga_stader_kronor/viktoriansk_krona"
+                }
+            },
+            {
+                "when": "Sakuras Krona",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_pack:item/kronor_o_regalia/ovriga_stader_kronor/sakura_krona"
+                }
+            },
+            {
+                "when": "Shikakus Krona",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_pack:item/kronor_o_regalia/ovriga_stader_kronor/shikaku_krona"
+                }
             }
         ],
         "fallback": {
