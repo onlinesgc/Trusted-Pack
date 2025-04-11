@@ -1,0 +1,69 @@
+{
+    "model": {
+      "type": "minecraft:select",
+      "property": "minecraft:component",
+      "component": "minecraft:custom_name",
+      "cases": [
+        {
+          "when": [
+            "Birchesters Storordern ❃ Storkors",
+            "Birchesters Storordern ❃ 1:a klass",
+            "Birchesters Storordern ❃ 2:a klass",
+            "Birchesters Storordern ❃ Kommendör & Riddare"
+          ],
+          "model": {
+            "type": "minecraft:model",
+            "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/1storordern/bir_storordern_item"
+          }
+        },
+        {
+            "when": [
+              "Birchesters St. Boris ordern ❃ Storkors",
+              "Birchesters St. Boris ordern ❃ Kommendör",
+              "Birchesters St. Boris ordern ❃ Riddare"
+            ],
+            "model": {
+              "type": "minecraft:model",
+              "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/2stborisordern/bir_stboris_item"
+            }
+        },
+        {
+            "when": [
+              "Birchesters Sköldbärarordern ❃ 1:a klass",
+              "Birchesters Sköldbärarordern ❃ Kommendör",
+              "Birchesters Sköldbärarordern ❃ Riddare"
+            ],
+            "model": {
+              "type": "minecraft:model",
+              "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/3skoldbararordern/bir_skoldbararordern_item"
+            }
+        },
+        {
+            "when": [
+              "Birchesters Lilla ordern ❃ Lilla korset",
+              "Birchesters Lilla ordern ❃ 1:a klass",
+              "Birchesters Lilla ordern ❃ 2:a klass"
+            ],
+            "model": {
+              "type": "minecraft:model",
+              "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/4lillaordnern/bir_lillaordern_item"
+            }
+        },
+        {
+            "when": [
+              "Viktorianska ◦ Eviga Ordern",
+              "Viktorianska ◦ Kungliga Ordern",
+              "Viktorianska ◦ Ordern"
+            ],
+            "model": {
+              "type": "minecraft:model",
+              "model": "trusted_pack:item/kronor_o_regalia/viktoriansk_regalia/viktoriansk_emblem"
+            }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/chainmail_chestplate"
+      }
+    }
+  }
