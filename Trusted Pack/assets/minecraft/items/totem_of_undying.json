@@ -21,7 +21,7 @@
       ],
       "fallback": {
         "type": "minecraft:model",
-        "model": "minecraft:item/gold_nugget"
+        "model": "minecraft:item/totem_of_undying"
       }
     }
   }

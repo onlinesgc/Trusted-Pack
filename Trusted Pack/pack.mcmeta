@@ -1,1 +1,17 @@
-{"pack":{"pack_format":55,"description":"Skin pack\nMade by Lukasabbe"}}
+{
+  "pack": {
+    "pack_format": 55,
+    "description": "§e§lTrustedPack 21.5a§r§o\n Onlineföreningen SGC",
+    "supported_formats": {
+      "min_inclusive": 55,
+      "max_inclusive": 55
+    }
+  },
+	"language": {
+	   "trustedlang": {
+		  "name": "Trustedianska",
+		  "region": "Trusted",
+		  "bidirectional": false
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "trusted_pack:item/quid/1000quid"
+    }
+}
