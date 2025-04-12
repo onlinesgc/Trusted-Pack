@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 64],
 	"textures": {
-		"0": "trusted_pack:item/kronor_o_regalia/ovriga_stader_kronor/viktoriansk_krona",
-		"particle": "trusted_pack:item/kronor_o_regalia/ovriga_stader_kronor/viktoriansk_krona"
+		"0": "trusted_pack:item/kronor_o_regalia/birchester_regalia/birchester_kronor/5_paulis_krona",
+		"particle": "trusted_pack:item/kronor_o_regalia/birchester_regalia/birchester_kronor/5_paulis_krona"
 	},
 	"elements": [
 		{
@@ -145,62 +145,6 @@
 				"up": {"uv": [2, 0, 4, 4], "texture": "#0"},
 				"down": {"uv": [4, 4, 2, 0], "texture": "#0"}
 			}
-		},
-		{
-			"name": "vbottom",
-			"from": [7.75, 4.25, 7.75],
-			"to": [8.25, 5.25, 8.25],
-			"rotation": {"angle": 0, "axis": "y", "origin": [21, 5, 7]},
-			"faces": {
-				"north": {"uv": [10.875, 5.5, 11, 6], "texture": "#0"},
-				"east": {"uv": [10.875, 5.5, 11, 6], "texture": "#0"},
-				"south": {"uv": [10.875, 5.5, 11, 6], "texture": "#0"},
-				"west": {"uv": [10.875, 5.5, 11, 6], "texture": "#0"},
-				"up": {"uv": [10.875, 5.5, 11, 5.75], "texture": "#0"},
-				"down": {"uv": [10.875, 5.75, 11, 6], "texture": "#0"}
-			}
-		},
-		{
-			"name": "vtop",
-			"from": [7.75, 6.25, 7.75],
-			"to": [8.25, 7.25, 8.25],
-			"rotation": {"angle": 0, "axis": "y", "origin": [21, 7, 7]},
-			"faces": {
-				"north": {"uv": [11, 5.5, 11.125, 6], "texture": "#0"},
-				"east": {"uv": [11, 5.5, 11.125, 6], "texture": "#0"},
-				"south": {"uv": [11, 5.5, 11.125, 6], "texture": "#0"},
-				"west": {"uv": [11, 5.5, 11.125, 6], "texture": "#0"},
-				"up": {"uv": [11, 5.5, 11.125, 5.75], "texture": "#0"},
-				"down": {"uv": [11, 5.75, 11.125, 6], "texture": "#0"}
-			}
-		},
-		{
-			"name": "vright",
-			"from": [7.25, 5.25, 7.75],
-			"to": [7.75, 6.25, 8.25],
-			"rotation": {"angle": 0, "axis": "y", "origin": [21, 6, 7]},
-			"faces": {
-				"north": {"uv": [10.875, 5.5, 11, 6], "texture": "#0"},
-				"east": {"uv": [10.875, 5.5, 11, 6], "texture": "#0"},
-				"south": {"uv": [10.875, 5.5, 11, 6], "texture": "#0"},
-				"west": {"uv": [10.875, 5.5, 11, 6], "texture": "#0"},
-				"up": {"uv": [10.875, 5.5, 11, 5.75], "texture": "#0"},
-				"down": {"uv": [10.875, 5.75, 11, 6], "texture": "#0"}
-			}
-		},
-		{
-			"name": "vleft",
-			"from": [8.25, 5.25, 7.75],
-			"to": [8.75, 6.25, 8.25],
-			"rotation": {"angle": 0, "axis": "y", "origin": [22, 6, 7]},
-			"faces": {
-				"north": {"uv": [10.875, 5.5, 11, 6], "texture": "#0"},
-				"east": {"uv": [10.875, 5.5, 11, 6], "texture": "#0"},
-				"south": {"uv": [10.875, 5.5, 11, 6], "texture": "#0"},
-				"west": {"uv": [10.875, 5.5, 11, 6], "texture": "#0"},
-				"up": {"uv": [10.875, 5.5, 11, 5.75], "texture": "#0"},
-				"down": {"uv": [10.875, 5.75, 11, 6], "texture": "#0"}
-			}
 		}
 	],
 	"display": {
@@ -249,12 +193,6 @@
 			"origin": [8, 13, 7],
 			"color": 0,
 			"children": [5, 6, 7, 8, 9]
-		},
-		{
-			"name": "viktoriansk",
-			"origin": [22, 6, 7],
-			"color": 0,
-			"children": [10, 11, 12, 13]
 		}
 	]
 }
