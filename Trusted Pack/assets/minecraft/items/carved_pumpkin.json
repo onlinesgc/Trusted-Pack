@@ -1984,6 +1984,13 @@
                     "type": "minecraft:model",
                     "model": "trusted_pack:item/kronor_o_regalia/ovriga_stader_kronor/shikaku_krona"
                 }
+            },
+            {
+                "when": "Proletaria Ushanka",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_pack:item/kronor_o_regalia/ovriga_stader_kronor/proletaria_hat"
+                }
             }
         ],
         "fallback": {
