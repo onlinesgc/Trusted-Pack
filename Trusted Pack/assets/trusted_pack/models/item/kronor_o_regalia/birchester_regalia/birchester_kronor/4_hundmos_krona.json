@@ -145,6 +145,48 @@
 				"up": {"uv": [2, 0, 4, 4], "texture": "#0"},
 				"down": {"uv": [4, 4, 2, 0], "texture": "#0"}
 			}
+		},
+		{
+			"name": "sp_center",
+			"from": [7.5, 4, 7.5],
+			"to": [8.5, 4.75, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 4, 7]},
+			"faces": {
+				"north": {"uv": [11, 1.75, 11.125, 2.25], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [10.875, 1.75, 11.125, 2], "texture": "#0"},
+				"south": {"uv": [10.875, 2, 11.125, 2.25], "texture": "#0"},
+				"west": {"uv": [11.125, 2, 10.875, 2.25], "texture": "#0"},
+				"up": {"uv": [10.875, 1.75, 11.125, 2.25], "texture": "#0"},
+				"down": {"uv": [0, 0, 0.125, 0.25], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "sp_width",
+			"from": [7, 4, 7.5],
+			"to": [9, 4.5, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 4, 7]},
+			"faces": {
+				"north": {"uv": [11.125, 1.75, 11.25, 2.25], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [10.875, 1.5, 11.125, 1.75], "texture": "#0"},
+				"south": {"uv": [10.875, 2.25, 11.125, 2.5], "texture": "#0"},
+				"west": {"uv": [11.125, 2.25, 10.875, 2.5], "texture": "#0"},
+				"up": {"uv": [10.75, 1.75, 11.25, 2.25], "texture": "#0"},
+				"down": {"uv": [0, 0, 0.125, 0.25], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "sp_length",
+			"from": [7.5, 4, 7],
+			"to": [8.5, 4.5, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-2, 4, 7]},
+			"faces": {
+				"north": {"uv": [11.125, 1.75, 11.25, 2.25], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [10.875, 1.5, 11.125, 1.75], "texture": "#0"},
+				"south": {"uv": [10.875, 2.25, 11.125, 2.5], "texture": "#0"},
+				"west": {"uv": [11.125, 2.25, 10.875, 2.5], "texture": "#0"},
+				"up": {"uv": [10.875, 1.5, 11.125, 2.5], "texture": "#0"},
+				"down": {"uv": [0, 0, 0.125, 0.25], "texture": "#missing"}
+			}
 		}
 	],
 	"display": {
@@ -193,6 +235,12 @@
 			"origin": [8, 13, 7],
 			"color": 0,
 			"children": [5, 6, 7, 8, 9]
+		},
+		{
+			"name": "special",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [10, 11, 12]
 		}
 	]
 }

@@ -1965,10 +1965,24 @@
                 }
             },
             {
-                "when": "Viktoriansk Krona ◦ Kung Kevin II",
+                "when": "Viktoriansk Krona ◦ Kejsare Kevin II",
                 "model": {
                     "type": "minecraft:model",
-                    "model": "trusted_pack:item/kronor_o_regalia/viktoriansk_regalia/viktoriansk_krona"
+                    "model": "trusted_pack:item/kronor_o_regalia/viktoriansk_regalia/vik_1kevin_krona"
+                }
+            },
+			{
+                "when": "Viktoriansk Krona ◦ Kungakronan",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_pack:item/kronor_o_regalia/viktoriansk_regalia/vik_kungakronan"
+                }
+            },
+			{
+                "when": "Viktoriansk Krona ◦ Prinskronan",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_pack:item/kronor_o_regalia/viktoriansk_regalia/vik_prinskronan"
                 }
             },
             {

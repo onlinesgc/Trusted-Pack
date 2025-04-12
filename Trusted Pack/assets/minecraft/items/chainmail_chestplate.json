@@ -51,13 +51,47 @@
         },
         {
             "when": [
-              "Viktorianska ◦ Eviga Ordern",
-              "Viktorianska ◦ Kungliga Ordern",
+              "Viktorianska ◦ Eviga Ordern"
+            ],
+            "model": {
+              "type": "minecraft:model",
+              "model": "trusted_pack:item/kronor_o_regalia/viktoriansk_regalia/viktoriansk_0evigorder"
+            }
+        },
+		{
+            "when": [
+              "Viktorianska ◦ Kejserliga Ordern"
+            ],
+            "model": {
+              "type": "minecraft:model",
+              "model": "trusted_pack:item/kronor_o_regalia/viktoriansk_regalia/viktoriansk_1kejsarorder"
+            }
+        },
+		{
+            "when": [
+              "Viktorianska ◦ Kungliga Ordern"
+            ],
+            "model": {
+              "type": "minecraft:model",
+              "model": "trusted_pack:item/kronor_o_regalia/viktoriansk_regalia/viktoriansk_2kungligorder"
+            }
+        },
+		{
+            "when": [
+              "Viktorianska ◦ Prinserliga Ordern"
+            ],
+            "model": {
+              "type": "minecraft:model",
+              "model": "trusted_pack:item/kronor_o_regalia/viktoriansk_regalia/viktoriansk_3prinsorder"
+            }
+        },
+		{
+            "when": [
               "Viktorianska ◦ Ordern"
             ],
             "model": {
               "type": "minecraft:model",
-              "model": "trusted_pack:item/kronor_o_regalia/viktoriansk_regalia/viktoriansk_emblem"
+              "model": "trusted_pack:item/kronor_o_regalia/viktoriansk_regalia/viktoriansk_4vikorder"
             }
         }
       ],
