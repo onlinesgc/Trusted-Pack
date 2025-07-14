@@ -1964,6 +1964,13 @@
                     "model": "trusted_pack:item/kronor_o_regalia/asufaruto_kronor/asu_prinskrona"
                 }
             },
+			{
+                "when": "Asufarutos Krona ⚜ H.M. Drottning Rekan",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_pack:item/kronor_o_regalia/asufaruto_kronor/asu_drottningkrona_rekan"
+                }
+            },
             {
                 "when": "Viktoriansk Krona ◦ Kejsare Kevin II",
                 "model": {
