@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "trusted_pack:item/kronor_o_regalia/birchester_regalia/3skoldbararordern/bir_skoldbararordern_K"
+    }
+}

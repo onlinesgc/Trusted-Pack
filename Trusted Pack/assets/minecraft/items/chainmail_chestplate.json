@@ -6,9 +6,33 @@
       "cases": [
         {
           "when": [
-            "Birchesters Storordern ❃ Storkors",
-            "Birchesters Storordern ❃ 1:a klass",
-            "Birchesters Storordern ❃ 2:a klass",
+            "Birchesters Storordern ❃ Storkors"
+          ],
+          "model": {
+            "type": "minecraft:model",
+            "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/1storordern/bir_storordern_X"
+          }
+        },
+		{
+          "when": [
+            "Birchesters Storordern ❃ 1:a klass"
+          ],
+          "model": {
+            "type": "minecraft:model",
+            "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/1storordern/bir_storordern_1"
+          }
+        },
+		{
+          "when": [
+            "Birchesters Storordern ❃ 2:a klass"
+          ],
+          "model": {
+            "type": "minecraft:model",
+            "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/1storordern/bir_storordern_2"
+          }
+        },
+		{
+          "when": [
             "Birchesters Storordern ❃ Kommendör & Riddare"
           ],
           "model": {
@@ -18,8 +42,24 @@
         },
         {
             "when": [
-              "Birchesters St. Boris ordern ❃ Storkors",
-              "Birchesters St. Boris ordern ❃ Kommendör",
+              "Birchesters St. Boris ordern ❃ 1:a klass"
+            ],
+            "model": {
+              "type": "minecraft:model",
+              "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/2stborisordern/bir_stboris_1"
+            }
+        },
+		{
+            "when": [
+              "Birchesters St. Boris ordern ❃ Kommendör"
+            ],
+            "model": {
+              "type": "minecraft:model",
+              "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/2stborisordern/bir_stboris_K"
+            }
+        },
+		{
+            "when": [
               "Birchesters St. Boris ordern ❃ Riddare"
             ],
             "model": {
@@ -29,8 +69,24 @@
         },
         {
             "when": [
-              "Birchesters Sköldbärarordern ❃ 1:a klass",
-              "Birchesters Sköldbärarordern ❃ Kommendör",
+              "Birchesters Sköldbärarordern ❃ 1:a klass"
+            ],
+            "model": {
+              "type": "minecraft:model",
+              "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/3skoldbararordern/bir_skoldbararordern_1"
+            }
+        },
+		{
+            "when": [
+              "Birchesters Sköldbärarordern ❃ Kommendör"
+            ],
+            "model": {
+              "type": "minecraft:model",
+              "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/3skoldbararordern/bir_skoldbararordern_K"
+            }
+        },
+		{
+            "when": [
               "Birchesters Sköldbärarordern ❃ Riddare"
             ],
             "model": {
@@ -40,13 +96,83 @@
         },
         {
             "when": [
-              "Birchesters Lilla ordern ❃ Lilla korset",
-              "Birchesters Lilla ordern ❃ 1:a klass",
+              "Birchesters Lilla ordern ❃ Lilla korset"
+            ],
+            "model": {
+              "type": "minecraft:model",
+              "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/4lillaordnern/bir_lillaordern_birX"
+            }
+        },
+		{
+            "when": [
+              "Birchesters Lilla ordern ❃ 1:a klass"
+            ],
+            "model": {
+              "type": "minecraft:model",
+              "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/4lillaordnern/bir_lillaordern_bir1"
+            }
+        },
+		{
+            "when": [
               "Birchesters Lilla ordern ❃ 2:a klass"
             ],
             "model": {
               "type": "minecraft:model",
-              "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/4lillaordnern/bir_lillaordern_item"
+              "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/4lillaordnern/bir_lillaordern_bir2"
+            }
+        },
+		{
+            "when": [
+              "Lunas ordern ❃ Lilla korset"
+            ],
+            "model": {
+              "type": "minecraft:model",
+              "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/4lillaordnern/bir_lillaordern_lunX"
+            }
+        },
+		{
+            "when": [
+              "Lunas ordern ❃ 1:a klass"
+            ],
+            "model": {
+              "type": "minecraft:model",
+              "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/4lillaordnern/bir_lillaordern_lun1"
+            }
+        },
+		{
+            "when": [
+              "Lunas ordern ❃ 2:a klass"
+            ],
+            "model": {
+              "type": "minecraft:model",
+              "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/4lillaordnern/bir_lillaordern_lun2"
+            }
+        },
+		{
+            "when": [
+              "Björktopias ordern ❃ Lilla korset"
+            ],
+            "model": {
+              "type": "minecraft:model",
+              "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/4lillaordnern/bir_lillaordern_bjoX"
+            }
+        },
+		{
+            "when": [
+              "Björktopias ordern ❃ 1:a klass"
+            ],
+            "model": {
+              "type": "minecraft:model",
+              "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/4lillaordnern/bir_lillaordern_bjo1"
+            }
+        },
+		{
+            "when": [
+              "Björktopias ordern ❃ 2:a klass"
+            ],
+            "model": {
+              "type": "minecraft:model",
+              "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/4lillaordnern/bir_lillaordern_bjo2"
             }
         },
         {

@@ -1,10 +1,10 @@
 {
   "pack": {
-    "pack_format": 55,
-    "description": "§e§lTrustedPack 21.5a§r§o\n Onlineföreningen SGC",
+    "pack_format": 64,
+    "description": "§e§lTrustedPack 21.7a§r§o\n Onlineföreningen SGC",
     "supported_formats": {
       "min_inclusive": 55,
-      "max_inclusive": 55
+      "max_inclusive": 64
     }
   },
 	"language": {
