@@ -33,6 +33,20 @@
           }
         },
         {
+          "when": "Stor Viktoriansk Flagga",
+          "model": {
+            "type": "minecraft:model",
+            "model": "trusted_pack:item/3d_flaggor/vik_big_flag"
+          }
+        },
+        {
+          "when": "Viktoriansk Flagga",
+          "model": {
+            "type": "minecraft:model",
+            "model": "trusted_pack:item/3d_flaggor/vik_flag"
+          }
+        },
+        {
           "when": "Stor Björktopia Flagga",
           "model": {
             "type": "minecraft:model",
