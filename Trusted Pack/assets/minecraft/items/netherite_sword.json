@@ -17,6 +17,13 @@
             "type": "minecraft:model",
             "model": "trusted_pack:item/asufaruto_weapons/asufaruto_army_sword_big"
           }
+        },
+		{
+          "when": "◦ Kung Kevin I:s svärd ◦",
+          "model": {
+            "type": "minecraft:model",
+            "model": "trusted_pack:item/kronor_o_regalia/viktoriansk_regalia/vik_sword"
+          }
         }
       ],
       "fallback": {

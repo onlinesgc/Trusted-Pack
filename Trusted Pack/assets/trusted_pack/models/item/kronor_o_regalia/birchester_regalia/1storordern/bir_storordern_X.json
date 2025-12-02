@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "trusted_pack:item/kronor_o_regalia/birchester_regalia/1storordern/bir_storordern_X"
+      "layer0": "trusted_pack:item/kronor_o_regalia/birchester_regalia/1storordern/bir_storordern_x"
     }
 }

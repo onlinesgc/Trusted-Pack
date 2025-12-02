@@ -1923,6 +1923,13 @@
                 }
             },
             {
+                "when": "Birchesters Krona ❃ H.M. Drottning Britt",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/birchester_kronor/1_britt_krona"
+                }
+            },
+			{
                 "when": "Birchesters Krona ❃ H.M. Drottning Sinna",
                 "model": {
                     "type": "minecraft:model",
@@ -1948,6 +1955,27 @@
                 "model": {
                     "type": "minecraft:model",
                     "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/birchester_kronor/5_paulis_krona"
+                }
+            },
+			{
+                "when": "Birchesters Krona ❃ Prinskronan",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/birchester_kronor/bir_prinskrona"
+                }
+            },
+			{
+                "when": "❃ Björktopias Krona ❃",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/birchester_kronor/bir_bjorktopias_krona"
+                }
+            },
+			{
+                "when": "❃ Lunas Krona ❃",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/birchester_kronor/bir_lunas_krona"
                 }
             },
             {
@@ -1976,6 +2004,13 @@
                 "model": {
                     "type": "minecraft:model",
                     "model": "trusted_pack:item/kronor_o_regalia/viktoriansk_regalia/vik_1kevin_krona"
+                }
+            },
+			{
+                "when": "Viktoriansk Krona ◦ Kejsarinna Maja",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_pack:item/kronor_o_regalia/viktoriansk_regalia/vik_2maja_krona"
                 }
             },
 			{
@@ -2011,6 +2046,34 @@
                 "model": {
                     "type": "minecraft:model",
                     "model": "trusted_pack:item/kronor_o_regalia/ovriga_stader_kronor/proletaria_hat"
+                }
+            },
+			{
+                "when": "Tophatt ◦ Viktorian",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_pack:item/hattar/tophat_vik_viktorian"
+                }
+            },
+			{
+                "when": "Tophatt ◦ Högerhand",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_pack:item/hattar/tophat_vik_hogerhand"
+                }
+            },
+			{
+                "when": "Tophatt ❃ MP",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_pack:item/hattar/tophat_bir"
+                }
+            },
+			{
+                "when": "Tophatt ❃ Lord",
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "trusted_pack:item/hattar/tophat_bir_hol"
                 }
             }
         ],

@@ -10,7 +10,7 @@
           ],
           "model": {
             "type": "minecraft:model",
-            "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/1storordern/bir_storordern_X"
+            "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/1storordern/bir_storordern_x"
           }
         },
 		{
@@ -55,7 +55,7 @@
             ],
             "model": {
               "type": "minecraft:model",
-              "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/2stborisordern/bir_stboris_K"
+              "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/2stborisordern/bir_stboris_k"
             }
         },
 		{
@@ -82,7 +82,7 @@
             ],
             "model": {
               "type": "minecraft:model",
-              "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/3skoldbararordern/bir_skoldbararordern_K"
+              "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/3skoldbararordern/bir_skoldbararordern_k"
             }
         },
 		{
@@ -100,7 +100,7 @@
             ],
             "model": {
               "type": "minecraft:model",
-              "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/4lillaordnern/bir_lillaordern_birX"
+              "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/4lillaordnern/bir_lillaordern_birx"
             }
         },
 		{
@@ -127,7 +127,7 @@
             ],
             "model": {
               "type": "minecraft:model",
-              "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/4lillaordnern/bir_lillaordern_lunX"
+              "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/4lillaordnern/bir_lillaordern_lunx"
             }
         },
 		{
@@ -154,7 +154,7 @@
             ],
             "model": {
               "type": "minecraft:model",
-              "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/4lillaordnern/bir_lillaordern_bjoX"
+              "model": "trusted_pack:item/kronor_o_regalia/birchester_regalia/4lillaordnern/bir_lillaordern_bjox"
             }
         },
 		{

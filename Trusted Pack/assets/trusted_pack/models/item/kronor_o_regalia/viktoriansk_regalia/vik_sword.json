@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+      "layer0": "trusted_pack:item/kronor_o_regalia/viktoriansk_regalia/vik_sword"
+    }
+}
